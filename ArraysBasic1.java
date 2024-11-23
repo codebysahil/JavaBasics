@@ -9,7 +9,7 @@ public class EmployeeLaunch {
         int id1= sc.nextInt();
         System.out.println("Enter age for employee 1");
         float age1 = sc.nextFloat();
-        System.out.println("Enter id for employee 1");
+        System.out.println("Enter id for employee 2");
         int id2= sc.nextInt();
         System.out.println("Enter age for employee 2");
         float age2 = sc.nextFloat();
